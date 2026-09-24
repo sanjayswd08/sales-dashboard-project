@@ -10,7 +10,7 @@ Superstore sales data (Kaggle) - link to be added.
 Excel (Power Query, Pivot Tables), PostgreSQL, Power BI
 
 ## Status
-In progress (started [today's date])
+In progress (started 24-8-2026)
 
 ## Project Structure
 - docs/ - requirements and validation
